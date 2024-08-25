@@ -1,6 +1,6 @@
 # Ansible Role: ntpdate
 
-An ansible to activate the ntpdate service on FreeBSD and NetBSD.
+An Ansible role to activate the ntpdate service on FreeBSD and NetBSD.
 
 # Installation
 
